@@ -1,3 +1,4 @@
+//Задача 1
 //#include <iostream>
 //
 //int sumOfDivisors(int n, int current) {
@@ -32,6 +33,7 @@
 //    return 0;
 //}
 
+//Задача 2
 //#include <iostream>
 //#include <fstream>
 //#include <string>
@@ -70,6 +72,8 @@
 //    return 0;
 //}
 
+
+//Задача 3
 //#include <iostream>
 //
 //int main() {
